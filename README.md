@@ -1,0 +1,2 @@
+# colorust
+Coloring terminal output
